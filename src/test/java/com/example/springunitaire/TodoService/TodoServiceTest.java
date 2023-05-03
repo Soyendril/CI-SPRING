@@ -114,11 +114,11 @@ public class TodoServiceTest {
         assertThat(existingTodo.isDone(), is(true));
     }
 
-  @Test
+/*    @Test
     public void testSomething() {
         // Échoue le test délibérément
         fail("Ce test a échoué intentionnellement");
-    }
+    }*/
 
     //retest
     // test branch 122
